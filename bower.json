@@ -2,7 +2,8 @@
   "name": "polymer-ui-sidebar-header",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "polymer-ui-toolbar": "Polymer/polymer-ui-toolbar#master"
-  }
+    "polymer": "Polymer/polymer#0.1.2",
+    "polymer-ui-toolbar": "Polymer/polymer-ui-toolbar#0.1.2"
+  },
+  "version": "0.1.2"
 }
